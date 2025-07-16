@@ -15,7 +15,7 @@ Here’s the generated `README.md`:
 
 
 ```markdown
-# Travel Blog - Full Stack Application
+# Travel Blog - Full Stack Application                                  
 
 A full-stack travel blogging platform that allows users to create, view, and interact with travel stories. This project is built using Node.js, Express, and MongoDB on the backend, and React.js with Vite on the frontend.
 
